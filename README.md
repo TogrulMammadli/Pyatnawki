@@ -1,2 +1,2 @@
 # Pyatnawki
-Чтобы запустить .exe файл приложения перейдите по \Debug\Pyatnawki.exe
+to run app, go to \Debug\Pyatnawki.exe

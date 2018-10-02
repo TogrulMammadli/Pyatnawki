@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\user\source\repos\pyatnawki\pyatnawki\source.cpp(139): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\user\source\repos\pyatnawki\pyatnawki\source.cpp(211): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Pyatnawki.vcxproj -> C:\Users\User\source\repos\Pyatnawki\Debug\Pyatnawki.exe
